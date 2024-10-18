@@ -1,0 +1,19 @@
+Path getType: 0
+Wall getType: 1
+FakeWall getType: 2
+Watson go in Path: 1
+Watson go in Wall: 0
+Watson go in FakeWall with EXP_0 : 0
+Watson go in FakeWall with EXP_89 : 0
+Watson go in FakeWall with EXP_90 : 0
+Sherlock go in Path: 1
+Sherlock go in Wall: 0
+Sherlock go in FakeWall: 1
+Criminal go in Path: 1
+Criminal go in Wall: 0
+Criminal go in FakeWall: 1
+Robot go in Path: 1
+Robot go in Wall: 0
+Robot go in FakeWall: 1
+Outrange (-1,0) : 0
+Outrange (0,-1) : 0
